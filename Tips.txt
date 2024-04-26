@@ -1,0 +1,1 @@
+Pro tip : use the url of the page to create clone of the existing repo
